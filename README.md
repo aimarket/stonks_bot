@@ -28,7 +28,7 @@ Same as above with a bad stock
 # $buy
 Buy order of specified stock or coin
 
-<img src="https://github.com/aimarket/stonks_bot/blob/main/examples/buy.png?raw=true" alt="alt text" title="image Title" height="150"/>
+<img src="https://github.com/aimarket/stonks_bot/blob/main/examples/buy.png?raw=true" alt="alt text" title="image Title" width="450"/>
 
 # $port
 Image of portfolio
@@ -38,4 +38,4 @@ Image of portfolio
 # $sellAll
 Sells every stock and crypto at market value
 
-<img src="https://github.com/aimarket/stonks_bot/blob/main/examples/sellAll.png?raw=true" alt="alt text" title="image Title" height="150"/>
+<img src="https://github.com/aimarket/stonks_bot/blob/main/examples/sellAll.png?raw=true" alt="alt text" title="image Title" width="350"/>
